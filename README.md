@@ -18,3 +18,11 @@
 |条款10|[令`operator`返回一个`reference to *this`](./chapter2/rule10.md)|
 |条款11|[在`operator=`中处理自我赋值操作](./chapter2/rule11.md)|
 |条款12|[复制对象的时候不要忘记它的每一个成分](./chapter2/rule12.md)|
+
+|`chapter3`|资源管理|
+|---|---|
+|条款13|[以对象管理资源](./chapter3/rule13.md)|
+|条款14|[在资源管理类中小心`copying`行为](./chapter3/rule14.md)|
+|条款15|[在资源管理类中提供对于原始资源的访问](./chapter3/rule15.md)|
+|条款16|[成对使用`new`和`delete`时采取相同的形式](./chapter3/rule16.md)|
+|条款17|[以独立语句将`newed`对象置入到智能指针中](./chapter3/rule17.md)|
