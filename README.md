@@ -26,3 +26,14 @@
 |条款15|[在资源管理类中提供对于原始资源的访问](./chapter3/rule15.md)|
 |条款16|[成对使用`new`和`delete`时采取相同的形式](./chapter3/rule16.md)|
 |条款17|[以独立语句将`newed`对象置入到智能指针中](./chapter3/rule17.md)|
+
+|`chapter4`|设计与声明|
+|---|---|
+|条款18|[让接口被正确使用,不易被误用](./chapter4/rule18.md)|
+|条款19|[设计`class`犹如设置`type`](./chapter4/rule19.md)|
+|条款20|[宁以`pass-by-reference-to-const`替代`pass-by-value`](./chapter4/rule20.md)|
+|条款21|[必须返回对象的时候,别妄想返回其`reference`](./chapter4/rule21.md)|
+|条款22|[将成员声明为`private`](./chapter4/rule22.md)|
+|条款23|[宁以`non-member`,`non-friend`替换`member`函数](./chapter4/rule23.md)|
+|条款24|[若所有的参数都需要类型转换,请为此采用`non-member`函数](./chapter4/rule24.md)|
+|条款25|[考虑写出一个不抛出异常的`swap`函数](./chapter4/rule25.md)|
