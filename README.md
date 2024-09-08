@@ -37,3 +37,12 @@
 |条款23|[宁以`non-member`,`non-friend`替换`member`函数](./chapter4/rule23.md)|
 |条款24|[若所有的参数都需要类型转换,请为此采用`non-member`函数](./chapter4/rule24.md)|
 |条款25|[考虑写出一个不抛出异常的`swap`函数](./chapter4/rule25.md)|
+
+|`chapter5`|实现|
+|---|---|
+|条款26|[尽可能延后变量定义式出现事件](./chapter5/rule26.md)|
+|条款27|[尽量少做转型动作](./chapter5/rule27.md)|
+|条款28|[避免返回`handles`指向对象的内部成分](./chapter5/rule28.md)|
+|条款29|[为"异常安全"而努力是值得的](./chapter/rule29.md)|
+|条款30|[透彻了解`inlining`的里里外外](./chapter5/rule30.md)|
+|条款31|[将文件之间的编译依赖关系下降到最低](./chapter5/rule31.md)|
