@@ -46,3 +46,15 @@
 |条款29|[为"异常安全"而努力是值得的](./chapter/rule29.md)|
 |条款30|[透彻了解`inlining`的里里外外](./chapter5/rule30.md)|
 |条款31|[将文件之间的编译依赖关系下降到最低](./chapter5/rule31.md)|
+
+|`chapter6`|继承与面向对象设计|
+|---|---|
+|条款32|[确定你的`public`继承塑模出`is-a`关系](./chapter6/rule32.md)|
+|条款33|[避免遮掩继承而来的名称](./chapter6/rule33.md)|
+|条款34|[区分接口继承与实现继承](./chapter6/rule34.md)|
+|条款35|[考虑`virtual`函数之外的选择](./chapter6/rule35.md)|
+|条款36|[绝不重新定义继承而来的`non-virtual`函数](./chapter6/rule36.md)|
+|条款37|[绝不重新定义继承而来的缺省参数](./chapter6/rule37.md)|
+|条款38|[通过复合塑模出`has-a`或者"根据某物实现出"](./chapter6/rule38.md)|
+|条款39|[明智而审慎地使用`private`继承](./chapter6/rule39.md)|
+|条款40|[明智而审慎地使用多重继承](./chapter6/rule40.md)|
