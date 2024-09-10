@@ -69,3 +69,10 @@
 |条款46|[需要类型转换的时候请为模板定义非成员函数](./chapter7/rule46.md)|
 |条款47|[请使用`traits classes`表现类型信息](./chapter7/rule47.md)|
 |条款48|[认识`template`元编程](./chapter7/rule48.md)|
+
+|`chapter8`|定制`new`和`delete`|
+|---|---|
+|条款49|[了解`new-handler`的行为](./chapter8/rule49.md)|
+|条款50|[了解`new`和`delete`的合理替换实际](./chapter/rule50.md)|
+|条款51|[编写`new`和`delete`时需要固守常规](./chapter/rule51.md)|
+|条款52|[写`placement new`也要写`placement delete`](./chapter/rule52.md)|
