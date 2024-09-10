@@ -58,3 +58,14 @@
 |条款38|[通过复合塑模出`has-a`或者"根据某物实现出"](./chapter6/rule38.md)|
 |条款39|[明智而审慎地使用`private`继承](./chapter6/rule39.md)|
 |条款40|[明智而审慎地使用多重继承](./chapter6/rule40.md)|
+
+|`chapter7`|模板与泛型编程|
+|---|---|
+|条款41|[了解隐式接口和编译时期多态](./chapter7/rule41.md)|
+|条款42|[了解`typename`的双重意义](./chapter7/rule42.md)|
+|条款43|[学习处理模板化基类内的名称](./chapter7/rule43.md)|
+|条款44|[将与参数无关的代码抽离`templates`](./chapter7/rule44.md)|
+|条款45|[运用成员函数模板接受所有兼容类型](./chapter7/rule45.md)|
+|条款46|[需要类型转换的时候请为模板定义非成员函数](./chapter7/rule46.md)|
+|条款47|[请使用`traits classes`表现类型信息](./chapter7/rule47.md)|
+|条款48|[认识`template`元编程](./chapter7/rule48.md)|
