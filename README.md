@@ -76,3 +76,9 @@
 |条款50|[了解`new`和`delete`的合理替换实际](./chapter/rule50.md)|
 |条款51|[编写`new`和`delete`时需要固守常规](./chapter/rule51.md)|
 |条款52|[写`placement new`也要写`placement delete`](./chapter/rule52.md)|
+
+|`chapter9`|杂项讨论|
+|---|---|
+|条款53|[不要忽略编译器的警告](./chapter9/rule53.md)|
+|条款54|[让自己熟悉包括`TR1`在内的标准程序库](./rule9/rule54.md)|
+|条款55|[让自己熟悉`Boost`](./chapter9/rule55.md)|
